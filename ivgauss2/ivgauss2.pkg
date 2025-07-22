@@ -1,0 +1,5 @@
+D 'DEA': 2 (two)-parameter log-inverse Gaussian regression Use ivgauss2 With STATA 19
+D
+F ivgauss2.ado
+F ivgauss2.hlp
+F ivgln_ll.ado
