@@ -1,6 +1,8 @@
 # ivgauss2
 2 (two)-parameter log-inverse Gaussian regression Use ivgauss2 With STATA 19
 
+https://www.youtube.com/watch?v=fL0oYAc5ELc
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
